@@ -30,6 +30,12 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 *   **Tech Stack:** Python, Scikit-Learn (Regression Models), Seaborn.
 *   **Key Deliverable:** [View Jupyter Notebook](./CCPP_Energy_Output_Prediction.ipynb) | [Download Executive Summary](./CCPP_Executive_Summary.docx)
 *   **Summary:** This project addresses power plant operational volatility by utilizing machine learning regression models to accurately forecast net hourly electrical energy output based on ambient conditions. The resulting model allows grid operators to optimize thermodynamic efficiency and strategically plan maintenance schedules to minimize costly downtime. Ultimately, this approach bridges the gap between raw plant sensor metrics and high-level revenue and grid management.
+
+### 5. AI-Driven ESG Fuel Emission Prediction & Sustainable Logistics
+- **Core Objective:** Developed a predictive model to forecast fuel emissions and optimize logistics, driving ESG (Environmental, Social, and Governance) initiatives and sustainable supply chain operations.
+- **Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib.
+- **Key Deliverable:** [View Jupyter Notebook](#5%20AI_Driven_ESG_Fuel_Emission_Prediction.ipynb) | [Download Executive PPTX](#5%20Sustainable%20Logistics%20Optimisation.pptx)
+- **Summary:** This project focuses on minimizing the carbon footprint of supply chain operations through machine learning. By accurately predicting fuel emissions based on transit variables, the model provides actionable insights to optimize routing and logistics. The findings are translated into a strategic executive presentation aimed at helping stakeholders balance operational efficiency with sustainability goals.
 ---
 
 ## 🛠️ Main Repository Structure
@@ -42,6 +48,8 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 *   `Automatidata_Executive_Summary.docx` - Written a project progress updates and breakdown of analytics findings for New York Yellow Taxi Performance Analysis
 *   `CCPP_Energy_Output_Prediction.ipynb` - Regression modeling for power plant energy output
 *   `CCPP_Executive_Summary.docx` - A 3 page executive summary outlining business context and objective, final model evaluation and business implications.
+*   `#5 AI_Driven_ESG_Fuel_Emission_Prediction.ipynb` - Data exploration, feature engineering, and machine learning models for forecasting fuel emissions.
+*   `#5 Sustainable Logistics Optimisation.pptx` - Executive presentation detailing AI findings and strategic recommendations for sustainable supply chain operations.
 
 ---
 
