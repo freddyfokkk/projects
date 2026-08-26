@@ -36,8 +36,6 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 
 *   `Stock_Trade_Data_Analysis.ipynb`- Data exploration, time series analysis, and predictive modeling for stock trades.
 *   `Stock_Trade_Data_Analysis.pptx` - Executive presentation summarizing the findings of the stock trade analysis.
-* **Stock_Trade_Data_Analysis.ipynb** - Data exploration, time series analysis, and predictive modeling for stock trades.
-* **Stock_Trade_Data_Analysis.pptx** - Executive presentation summarizing the findings of the stock trade analysis.
 *   `Final_DataCo_project.ipynb` - Data cleaning, feature engineering, and predictive modeling for the supply chain project.
 *   `Fok Koe Kian Freddy_DataCo.pptx` - Formal 27-slide executive recommendation deck for DataCo Supply Chain Analytics & Predictive Modelling. 
 *   `Yellow Taxi.ipynb` - Exploratory data analysis (EDA) and visualization codebase for taxi trip trends
