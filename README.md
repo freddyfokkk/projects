@@ -35,6 +35,7 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 ## 🛠️ Main Repository Structure
 
 *   `Stock_Trade_Data_Analysis.ipynb`- Data exploration, time series analysis, and predictive modeling for stock trades.
+*   `Stock_Trade_Data_Analysis.pptx` - Executive presentation summarizing the findings of the stock trade analysis.
 * **Stock_Trade_Data_Analysis.ipynb** - Data exploration, time series analysis, and predictive modeling for stock trades.
 * **Stock_Trade_Data_Analysis.pptx** - Executive presentation summarizing the findings of the stock trade analysis.
 *   `Final_DataCo_project.ipynb` - Data cleaning, feature engineering, and predictive modeling for the supply chain project.
