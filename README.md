@@ -38,12 +38,21 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 - **Summary:** This project focuses on minimizing the carbon footprint of supply chain operations through machine learning. By accurately predicting fuel emissions based on transit variables, the model provides actionable insights to optimize routing and logistics. The findings are translated into a strategic executive presentation aimed at helping stakeholders balance operational efficiency with sustainability goals.
 ---
 
-### 6. AI-Powered Maritime Fuel & Emissions Optimization
+  ### 6. AI-Powered Maritime Fuel & Emissions Optimization
 * **Core Objective:** Developed a machine learning model to predict maritime fuel consumption and optimize emissions, supporting sustainable shipping and logistics operations.
 * **Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib.
 * **Key Deliverable:** [View Jupyter Notebook](06%20AI_Powered_Maritime_Fuel_&_Emissions_Optimisation.ipynb) | [View Executive PDF](06%20Maritime_AI_Fuel_Emissions_Optimization.pdf)
-* **Summary:** Expanding on ESG initiatives, this project applies predictive analytics to maritime logistics to minimize environmental impact. By analyzing voyage data and transit variables, the model identifies operational efficiencies to reduce fuel usage and carbon emissions. The accompanying executive PDF translates these predictive insights into strategic recommendations for sustainable maritime operations.
-  
+* **Project Lifecycle & Methodology:**
+  * **Business Challenge:** Reducing the high carbon footprint and volatile fuel costs associated with global maritime shipping.
+  * **Stakeholder / Operational Painpoint:** Fleet managers and ESG officers struggle with unpredictable fuel consumption and lack actionable data to optimize voyage efficiency.
+  * **Data & Requirements:** Historical voyage logs, transit variables (speed, draft, distance, weather conditions), and recorded fuel emissions metrics.
+  * **AI/ML Approaches Consideration:** Evaluated various regression techniques (e.g., Random Forest, Gradient Boosting) to accurately map non-linear relationships between complex transit variables and fuel burn.
+  * **Model & Technical Feasibility:** Successfully trained and validated a predictive regression model using Scikit-Learn, demonstrating strong accuracy and reliability in forecasting fuel usage per voyage.
+  * **Business Findings:** The model identified specific optimal cruising speeds and routing conditions that drastically minimize fuel consumption without causing critical delivery delays.
+  * **Recommended Intervention:** Deploy dynamic, AI-driven speed and route optimization recommendations directly to fleet operators prior to dispatch.
+  * **Expected Business Value:** Significant reduction in annual fuel expenditures, improved regulatory compliance, and measurable advancement toward corporate ESG sustainability goals.
+  * **Implementation Considerations:** Requires integrating the predictive model into existing maritime dispatch workflows and establishing a feedback loop with live operational data.
+    
 ## 🛠️ Main Repository Structure
 
 *   `Stock_Trade_Data_Analysis.ipynb`- Data exploration, time series analysis, and predictive modeling for stock trades.
