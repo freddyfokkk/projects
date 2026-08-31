@@ -16,7 +16,7 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 ### 2. DataCo Supply Chain Analytics & Predictive Modelling
 *   **Core Objective:** Cleaned and integrated an e-commerce supply chain dataset of 180,000+ orders to identify key drivers behind late deliveries, order cancellations, and payment risks.
 *   **Tech Stack:** Python, Pandas, Scikit-Learn (Random Forest Classification).
-*   **Key Deliverable:** [View Jupyter Notebook](./Final_DataCo_project.ipynb) | [Download Executive PPTX](./Fok%20Koe%20Kian%20Freddy_DataCo.pptx)
+*   **Key Deliverable:** [View Jupyter Notebook](./Final_DataCo_project.ipynb) | [View Executive PDF](./Fok%20Koe%20Kian%20Freddy_DataCo.pdf)
 *   **Summary:** This project addresses supply chain inefficiencies and financial leakage by analyzing over 180,000 e-commerce transactions to identify the core operational drivers of late deliveries, order cancellations, and payment risks. By training a Random Forest classification model on a targeted subset of approximately 32,800 orders, the analysis successfully isolates high-risk delivery routes and customer behaviors to flag delivery delays before they occur. Ultimately, these predictive insights are translated into concrete mitigation strategies and an executive recommendation deck designed to protect profit margins, optimize inventory movement, and improve customer retention.
 
 ### 3. New York Yellow Taxi Performance Analysis
@@ -58,7 +58,7 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 *   `Stock_Trade_Data_Analysis.ipynb`- Data exploration, time series analysis, and predictive modeling for stock trades.
 *   `Stock_Trade_Data_Analysis.pptx` - Executive presentation summarizing the findings of the stock trade analysis.
 *   `Final_DataCo_project.ipynb` - Data cleaning, feature engineering, and predictive modeling for the supply chain project.
-*   `Fok Koe Kian Freddy_DataCo.pptx` - Formal 27-slide executive recommendation deck for DataCo Supply Chain Analytics & Predictive Modelling. 
+*   `Fok Koe Kian Freddy_DataCo.pdf` - Formal 27-slide executive recommendation deck for DataCo Supply Chain Analytics & Predictive Modelling. 
 *   `Yellow Taxi.ipynb` - Exploratory data analysis (EDA) and visualization codebase for taxi trip trends
 *   `Automatidata_Executive_Summary.docx` - Written a project progress updates and breakdown of analytics findings for New York Yellow Taxi Performance Analysis
 *   `CCPP_Energy_Output_Prediction.ipynb` - Regression modeling for power plant energy output
