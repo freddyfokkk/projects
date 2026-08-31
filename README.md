@@ -56,6 +56,8 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 *   `CCPP_Executive_Summary.docx` - A 3 page executive summary outlining business context and objective, final model evaluation and business implications.
 *   `#5 AI_Driven_ESG_Fuel_Emission_Prediction.ipynb` - Data exploration, feature engineering, and machine learning models for forecasting fuel emissions.
 *   `#5 Sustainable Logistics Optimisation.pptx` - Executive presentation detailing AI findings and strategic recommendations for sustainable supply chain operations.
+*   `06 AI_Powered_Maritime_Fuel_&_Emissions_Optimisation.ipynb` - Predictive modeling and optimization algorithms for maritime fuel efficiency and emissions reduction.
+* `06 Maritime_AI_Fuel_Emissions_Optimization.pdf` - Executive summary outlining AI-driven strategies for sustainable maritime logistics.
 
 ---
 
