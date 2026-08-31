@@ -38,6 +38,12 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 - **Summary:** This project focuses on minimizing the carbon footprint of supply chain operations through machine learning. By accurately predicting fuel emissions based on transit variables, the model provides actionable insights to optimize routing and logistics. The findings are translated into a strategic executive presentation aimed at helping stakeholders balance operational efficiency with sustainability goals.
 ---
 
+### 6. AI-Powered Maritime Fuel & Emissions Optimization
+* **Core Objective:** Developed a machine learning model to predict maritime fuel consumption and optimize emissions, supporting sustainable shipping and logistics operations.
+* **Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib.
+* **Key Deliverable:** [View Jupyter Notebook](06%20AI_Powered_Maritime_Fuel_&_Emissions_Optimisation.ipynb) | [View Executive PDF](06%20Maritime_AI_Fuel_Emissions_Optimization.pdf)
+* **Summary:** Expanding on ESG initiatives, this project applies predictive analytics to maritime logistics to minimize environmental impact. By analyzing voyage data and transit variables, the model identifies operational efficiencies to reduce fuel usage and carbon emissions. The accompanying executive PDF translates these predictive insights into strategic recommendations for sustainable maritime operations.
+  
 ## 🛠️ Main Repository Structure
 
 *   `Stock_Trade_Data_Analysis.ipynb`- Data exploration, time series analysis, and predictive modeling for stock trades.
