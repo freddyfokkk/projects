@@ -56,15 +56,15 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 ## 🛠️ Main Repository Structure
 
 *   `Stock_Trade_Data_Analysis.ipynb`- Data exploration, time series analysis, and predictive modeling for stock trades.
-*   `Stock_Trade_Data_Analysis.pptx` - Executive presentation summarizing the findings of the stock trade analysis.
+*   `Stock_Trade_Data_Analysis.pdf` - Executive presentation summarizing the findings of the stock trade analysis.
 *   `Final_DataCo_project.ipynb` - Data cleaning, feature engineering, and predictive modeling for the supply chain project.
 *   `Fok Koe Kian Freddy_DataCo.pdf` - Formal 27-slide executive recommendation deck for DataCo Supply Chain Analytics & Predictive Modelling. 
 *   `Yellow Taxi.ipynb` - Exploratory data analysis (EDA) and visualization codebase for taxi trip trends
-*   `Automatidata_Executive_Summary.docx` - Written a project progress updates and breakdown of analytics findings for New York Yellow Taxi Performance Analysis
+*   `Automatidata_Executive_Summary.pdf` - Written a project progress updates and breakdown of analytics findings for New York Yellow Taxi Performance Analysis
 *   `CCPP_Energy_Output_Prediction.ipynb` - Regression modeling for power plant energy output
-*   `CCPP_Executive_Summary.docx` - A 3 page executive summary outlining business context and objective, final model evaluation and business implications.
+*   `CCPP_Executive_Summary.pdf` - A 3 page executive summary outlining business context and objective, final model evaluation and business implications.
 *   `#5 AI_Driven_ESG_Fuel_Emission_Prediction.ipynb` - Data exploration, feature engineering, and machine learning models for forecasting fuel emissions.
-*   `#5 Sustainable Logistics Optimisation.pptx` - Executive presentation detailing AI findings and strategic recommendations for sustainable supply chain operations.
+*   `#5 Sustainable Logistics Optimisation.pdf` - Executive presentation detailing AI findings and strategic recommendations for sustainable supply chain operations.
 *   `06 AI_Powered_Maritime_Fuel_&_Emissions_Optimisation.ipynb` - Predictive modeling and optimization algorithms for maritime fuel efficiency and emissions reduction.
 * `06 Maritime_AI_Fuel_Emissions_Optimization.pdf` - Executive summary outlining AI-driven strategies for sustainable maritime logistics.
 
