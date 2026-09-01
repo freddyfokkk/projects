@@ -22,7 +22,7 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 ### 3. New York Yellow Taxi Performance Analysis
 *   **Core Objective:** Investigated urban transit efficiency, trip durations, and pricing behaviors using historical NYC yellow cab trip data.
 *   **Tech Stack:** Python, Pandas, Matplotlib, Seaborn.
-*   **Key Deliverable:** [View Jupyter Notebook](./Yellow%20Taxi.ipynb) | [View Executive Summary](./Automatidata_Executive_Summary.docx)
+*   **Key Deliverable:** [View Jupyter Notebook](./Yellow%20Taxi.ipynb) | [View Executive Summary](./Automatidata_Executive_Summary.pdf)
 *   **Summary:** This ongoing project investigates urban transit efficiency and revenue optimization by conducting deep exploratory data analysisProject progress update for teammates and stakeholders. Phase one focuses on cleaning raw data to isolate high-traffic bottlenecks, peak operational hours, and fare pricing behaviors across different city zones. These foundational visual insights establish the baseline metrics necessary to build upcoming predictive models aimed at reducing driver downtime and maximizing fleet profitability.
 
 ### 4. CCPP Energy Output Prediction
