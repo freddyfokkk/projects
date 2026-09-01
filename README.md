@@ -28,7 +28,7 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 ### 4. CCPP Energy Output Prediction
 *   **Core Objective:** Developed a regression model to predict the net hourly electrical energy output (PE) of a Combined Cycle Power Plant based on ambient environmental variables.
 *   **Tech Stack:** Python, Scikit-Learn (Regression Models), Seaborn.
-*   **Key Deliverable:** [View Jupyter Notebook](./CCPP_Energy_Output_Prediction.ipynb) | [View Executive Summary](./CCPP_Executive_Summary.docx)
+*   **Key Deliverable:** [View Jupyter Notebook](./CCPP_Energy_Output_Prediction.ipynb) | [View Executive Summary](./CCPP_Executive_Summary.pdf)
 *   **Summary:** This project addresses power plant operational volatility by utilizing machine learning regression models to accurately forecast net hourly electrical energy output based on ambient conditions. The resulting model allows grid operators to optimize thermodynamic efficiency and strategically plan maintenance schedules to minimize costly downtime. Ultimately, this approach bridges the gap between raw plant sensor metrics and high-level revenue and grid management.
 
 ### 5. AI-Driven ESG Fuel Emission Prediction & Sustainable Logistics
