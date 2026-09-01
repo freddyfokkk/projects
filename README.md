@@ -10,7 +10,7 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 
 *   *Core Objective:* Analyzed historical stock market data to identify trading patterns, evaluate financial risks, and develop predictive models.
 *   *Tech Stack:* Python, Pandas, Matplotlib, Scikit-Learn
-*   *Key Deliverable:* [View Jupyter Notebook](Stock_Trade_Data_Analysis.ipynb) | [Download Executive PPTX](Stock_Trade_Data_Analysis.pptx)
+*   *Key Deliverable:* [View Jupyter Notebook](Stock_Trade_Data_Analysis.ipynb) | [Download Executive Summary](Stock_Trade_Data_Analysis.pdf)
 *   *Summary:* This project explores financial market trends by analyzing stock trade data. Through exploratory data analysis and predictive modeling, it uncovers key insights into market volatility and trading behaviors, finalising in an executive presentation for financial stakeholders.
 
 ### 2. DataCo Supply Chain Analytics & Predictive Modelling
