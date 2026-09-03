@@ -80,6 +80,8 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 *   `#5 Sustainable Logistics Optimisation.pdf` - Executive presentation detailing AI findings and strategic recommendations for sustainable supply chain operations.
 *   `06 AI_Powered_Maritime_Fuel_&_Emissions_Optimisation.ipynb` - Predictive modeling and optimization algorithms for maritime fuel efficiency and emissions reduction.
 * `06 Maritime_AI_Fuel_Emissions_Optimization.pdf` - Executive summary outlining AI-driven strategies for sustainable maritime logistics.
+* - `07 AI_Delivery_&_Value_Realization_Portfolio_Project.ipynb` - Analytical frameworks and code for tracking AI model performance and business value realization.
+- `07 AI_Delivery_Value_Realization.pdf` - Executive presentation outlining the business impact, ROI, and strategic delivery of AI solutions.
 
 ---
 
