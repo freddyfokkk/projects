@@ -61,15 +61,9 @@ Welcome to my data science portfolio. This repository contains end-to-end data a
 - *Key Deliverable:* [View Jupyter Notebook](07%20AI_Delivery_%26_Value_Realization_Portfolio_Project.ipynb) | [View Executive Presentation](07%20AI_Delivery_Value_Realization.pdf)
 - *Summary:* This project outlines an end-to-end data pipeline for machine learning and predictive modeling focused on optimizing inventory and operational efficiency within a global logistics network. It addresses three key areas: late delivery risk, estimated time of delivery, and sales forecasting.
 - The pipeline began with **Data Ingestion and Initial Exploration**, where a synthetic Coca-Cola supply chain dataset was loaded and analyzed for structure, quality, and features. This was followed by **Data Preprocessing and Feature Engineering**, which involved extracting time-based features and one-hot encoding categorical variables to prepare the data for modeling.
--  **Predictive Model Development** included:
--   **Sales Forecasting**: A RandomForestRegressor was trained to predict 'Sales_Volume', evaluated using MSE and R2, and a MAPE of 129.37% was calculated for accuracy assessment.
--   **Late Delivery Risk**: A RandomForestClassifier was developed to predict the likelihood of late delivery (Shipping_Delay_Days > 0), achieving an Accuracy of 0.78, Precision of 0.79, Recall of 0.98, and F1-Score of 0.88.
--   **Estimated Time of Delivery (ETA)**: A RandomForestRegressor was trained to predict 'Shipping_Delay_Days', yielding an MSE of 1.52 and an R2 of -0.05, indicating challenges in predicting exact delay days with the current features.
-
+-  **Predictive Model Development** included: (1) Sales Forecasting: A RandomForestRegressor was trained to predict 'Sales_Volume', evaluated using MSE and R2, and a MAPE of 129.37% was calculated for accuracy assessment.(2) Late Delivery Risk**: A RandomForestClassifier was developed to predict the likelihood of late delivery (Shipping_Delay_Days > 0), achieving an Accuracy of 0.78, Precision of 0.79, Recall of 0.98, and F1-Score of 0.88.(3) Estimated Time of Delivery (ETA)**: A RandomForestRegressor was trained to predict 'Shipping_Delay_Days', yielding an MSE of 1.52 and an R2 of -0.05, indicating challenges in predicting exact delay days with the current features.
 - A **Value Realization Dashboard** was established to track simulated ROI, fulfillment efficiency, and risk mitigation. Key metrics included a Fulfillment Efficiency (Precision for On-time) of 2.37%, Risk Mitigation (Recall for Late Deliveries) of 98.35%, and a Simulated ROI Value of $67,300.00 from risk mitigation efforts.
-
 - **Cloud & Architecture Alignment** provided a conceptual cloud-based framework for scalable and automated continuous data ingestion, model execution, and reporting, leveraging services for data lakes, data warehouses, ML platforms, and BI tools.
-
 - Finally, **Delivery & Governance Artifacts** were outlined, including templates for a Project Kickoff Document, Workflow Timeline, and Executive Presentation, to ensure agile execution and cross-functional alignment. The project demonstrates a comprehensive approach from data to deployment strategy, with clear documentation for stakeholders.
   
 ## 🛠️ Main Repository Structure
